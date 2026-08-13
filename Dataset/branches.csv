@@ -1,0 +1,31 @@
+Branch_ID,Branch_Name,City,State,Region
+B001,Phoenix 01,Phoenix,Arizona,Northeast
+B002,Jacksonville 02,Jacksonville,Florida,South
+B003,Naperville 03,Naperville,Illinois,West
+B004,Tampa 04,Tampa,Florida,Northeast
+B005,Jacksonville 05,Jacksonville,Florida,South
+B006,Rochester 06,Rochester,New York,West
+B007,Aurora 07,Aurora,Illinois,Midwest
+B008,Buffalo 08,Buffalo,New York,West
+B009,Fresno 09,Fresno,California,Midwest
+B010,Chicago 10,Chicago,Illinois,Midwest
+B011,San Diego 11,San Diego,California,South
+B012,New York 12,New York,New York,South
+B013,Tampa 13,Tampa,Florida,Northeast
+B014,Fresno 14,Fresno,California,Midwest
+B015,Rochester 15,Rochester,New York,West
+B016,Augusta 16,Augusta,Georgia,West
+B017,Jacksonville 17,Jacksonville,Florida,Northeast
+B018,New York 18,New York,New York,Northeast
+B019,Naperville 19,Naperville,Illinois,Northeast
+B020,Chicago 20,Chicago,Illinois,Northeast
+B021,Fresno 21,Fresno,California,South
+B022,Buffalo 22,Buffalo,New York,West
+B023,Los Angeles 23,Los Angeles,California,West
+B024,Aurora 24,Aurora,Illinois,Midwest
+B025,Rochester 25,Rochester,New York,Midwest
+B026,Phoenix 26,Phoenix,Arizona,Midwest
+B027,Mesa 27,Mesa,Arizona,West
+B028,Houston 28,Houston,Texas,West
+B029,Arlington 29,Arlington,Virginia,West
+B030,Savannah 30,Savannah,Georgia,West
